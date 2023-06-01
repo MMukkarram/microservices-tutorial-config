@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: UserServiceGitHUb
+    
 eureka:
   instance:
     prefer-ip-address: true
